@@ -1,5 +1,5 @@
 ## Welcome to My HomePage
-![Image](https://hohaihy.github.io/blob/master/index.jpg)
+[Link](https://hohaihy.github.io/blob/master/index.jpg)
 
   **HONG  YI  (Master)**
   
