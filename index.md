@@ -1,8 +1,10 @@
 ## Welcome to My HomePage
-![photo](https://hohaihy.github.io/blob/master/index.jpg)
-You can use the [editor on GitHub](https://github.com/hohaihy/hohaihy.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<div align=left>![photo] (https://hohaihy.github.io/blob/master/index.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<font size=8>HONG YI</font>
+<font size=8>Master</font>
+<font size=8>College of Computer and Information, Hohai University</font>
+<font size=8>E-mail: 264816580@qq.com; hy1996418@gamil.com</font>
 
 ### Education
 *** 
