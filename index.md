@@ -1,7 +1,7 @@
 ## Welcome to My HomePage
 <div align=left>![photo](https://hohaihy.github.io/blob/master/index.jpg)</div>
 
-  <font size=12>**HONG  YI  (Master)**</font>
+  <font size=18>**HONG  YI  (Master)**</font>
   
   <font size=12>**College of Computer and Information, Hohai University**</font>
   
