@@ -5,7 +5,7 @@
   
   **College of Computer and Information, Hohai University**
   
-  **E-mail: 264816580@qq.com; hy1996418@gamil.com**
+  **E-mail: 264816580@qq.com; hy1996418@gmail.com**
   
   **Office: Rm3310 QinXue Building, 8 Focheng West Road, Hohai University, Nanjing, Jiangsu, P.R.China,211106**
   
