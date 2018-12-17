@@ -1,11 +1,9 @@
 ## Welcome to My HomePage
 <div align=left>![photo](https://hohaihy.github.io/blob/master/index.jpg)</div>
-
   <font size=12>**HONG  YI  (Master)**</font>
-
   <font size=12>**College of Computer and Information, Hohai University**</font>
-
   <font size=12>**E-mail: 264816580@qq.com; hy1996418@gamil.com**</font>
+  <font size=12>**Office: Rm3310 QinXue Building, 8 Focheng West Road, Hohai University, Nanjing, Jiangsu, P.R.China,211106**</font>
 
 ### Education
 *** 
