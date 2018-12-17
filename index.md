@@ -10,7 +10,7 @@
       <p><b>Office:Rm3310, QinXue Building, Hohai University Jiangning District, Nanjing</b></p>
     </td>
     <td>
-      <img src="/index.jpg" >
+      <img src="/index.jpg" height="200" width="200" >
     </td>
   </tr>
 </table>
