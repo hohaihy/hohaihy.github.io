@@ -9,6 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 + **2013/9-2016/2   Bsc：Computer Science and Technology   Hohai University   China**
 
 + **2016/9-2018/6   Engineer: Computer Science and Statistics   Polytech Lille   France**
+
   As the only student in my major who exchanged for the University of Engineering in Lille, France, I studied in France as a major. Over  the past few years, I have not only achieved excellent results, but also reached the level of B2 in French.
 + **2018/9-Present   Master: Software Engineering Hohai University   China**
 
