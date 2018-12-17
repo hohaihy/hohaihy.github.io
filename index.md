@@ -2,7 +2,9 @@
 <div align=left>![photo] (https://hohaihy.github.io/blob/master/index.jpg)
 
 <font size=12>**HONG  YI  (Master)**</font>
+
 <font size=12>**College of Computer and Information, Hohai University**</font>
+
 <font size=12>**E-mail: 264816580@qq.com; hy1996418@gamil.com**</font>
 
 ### Education
