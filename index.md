@@ -1,8 +1,7 @@
 ## Welcome to My HomePage
 <div>
-  <div align=left >![Link](/index.jpg)
-  </div>
-  <div align = right>  **HONG  YI  (Master)**
+  <div align=left>![Link](/index.jpg)
+  <div align=right>  **HONG  YI  (Master)**
   
   **College of Computer and Information, Hohai University**
   
